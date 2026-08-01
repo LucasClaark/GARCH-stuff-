@@ -1,2 +1,2 @@
-# Garch-Stuff
+# GARCH-Stuff
 Faily simple GARCH from about a year ago. 
